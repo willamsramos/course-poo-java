@@ -1,4 +1,4 @@
-package entites.enums;
+package entities.enums;
 
 public enum OrderStatus {
 
